@@ -1,7 +1,7 @@
 # Cyclist Analysis
 check out the Dashboard [here](https://public.tableau.com/views/cyclist_analysis/cyclist_analysis_dash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
-![sample](https://github.com/kevinclee26/tableu_analysis/blob/main/cyclist_sample.png?raw=true)
+![sample](https://github.com/kevinclee26/tableau_analysis/blob/main/cyclist_sample.png?raw=true)
 
 Try to create visualizations to the following questions:
 
