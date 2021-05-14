@@ -1,3 +1,10 @@
+# Airilnes Safety
+
+* Assumptions: constant ASK
+* Fatalities and Fatal Accidents are not the same - Fatal Accidents measure the number of incidents and Fatalities measure the number of people
+
+https://public.tableau.com/profile/kevin.lee7560#!/vizhome/airlines_analysis/Story?publish=yes
+
 # Cyclist Analysis
 check out the Dashboard [here](https://public.tableau.com/views/cyclist_analysis/cyclist_analysis_dash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
